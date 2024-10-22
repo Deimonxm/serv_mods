@@ -1,0 +1,56 @@
+8.1.2 15-10-2024 14:27:15 Starting new session. Mods: examplemod 
+8.1.2 15-10-2024 14:27:32 MAJOR: null: Loading language: es_es
+8.1.2 15-10-2024 14:27:32 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.2 15-10-2024 18:04:17 Starting new session. Mods: examplemod 
+8.1.2 15-10-2024 18:04:40 MAJOR: null: Loading language: es_es
+8.1.2 15-10-2024 18:04:41 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.2 15-10-2024 18:27:37 Starting new session. Mods: examplemod 
+8.1.2 15-10-2024 18:27:58 MAJOR: null: Loading language: es_es
+8.1.2 15-10-2024 18:27:59 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.2 15-10-2024 18:28:58 ERROR: org.millenaire.client.network.ClientReceiver@54d161b9: Received a packet despite null clientWorld.
+8.1.2 16-10-2024 23:02:23 Starting new session. Mods: examplemod 
+8.1.2 16-10-2024 23:02:45 MAJOR: null: Loading language: es_es
+8.1.2 16-10-2024 23:02:46 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.2 17-10-2024 20:22:53 Starting new session. Mods: examplemod 
+8.1.2 17-10-2024 20:26:29 MAJOR: null: Loading language: es_es
+8.1.2 17-10-2024 20:26:30 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.2 17-10-2024 20:32:39 Starting new session. Mods: examplemod 
+8.1.2 17-10-2024 20:36:02 Starting new session. Mods: examplemod 
+8.1.2 17-10-2024 20:39:16 MAJOR: null: Loading language: es_es
+8.1.2 17-10-2024 20:39:17 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.2 17-10-2024 21:00:07 Starting new session. Mods: examplemod 
+8.1.2 17-10-2024 21:03:06 MAJOR: null: Loading language: es_es
+8.1.2 17-10-2024 21:03:07 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.2 17-10-2024 21:56:27 Starting new session. Mods: examplemod 
+8.1.2 17-10-2024 21:59:13 MAJOR: null: Loading language: es_es
+8.1.2 17-10-2024 21:59:15 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.2 18-10-2024 19:11:35 Starting new session. Mods: examplemod 
+8.1.2 18-10-2024 19:16:09 Starting new session. Mods: examplemod 
+8.1.2 18-10-2024 19:19:09 MAJOR: null: Loading language: es_es
+8.1.2 18-10-2024 19:19:12 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.2 18-10-2024 19:56:55 Exception when finding JPS path:
+8.1.2 18-10-2024 19:56:55 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 120/1090.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:441)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2347)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+
+8.1.2 21-10-2024 17:53:36 Starting new session. Mods: examplemod 
+8.1.2 21-10-2024 18:05:52 Starting new session. Mods: examplemod 
+8.1.2 21-10-2024 18:06:36 MAJOR: null: Loading language: es_es
+8.1.2 21-10-2024 18:06:37 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.2 21-10-2024 18:10:47 Starting new session. Mods: examplemod 
+8.1.2 21-10-2024 18:11:37 MAJOR: null: Loading language: es_es
+8.1.2 21-10-2024 18:11:38 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
